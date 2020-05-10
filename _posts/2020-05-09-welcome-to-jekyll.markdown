@@ -5,8 +5,9 @@ date:   2020-05-09 12:39:33 +0800
 categories: jekyll update
 ---
 
-2020-05-10-My First Post.MARKUP
 Since it's Mother's Day, I have decided to write my first post. 
+I'm thankful for all the sacrifices my mother has made over the 30 years of bringing my siblings and I up. One important lesson she has taught must be her work ethic. 
+Of all her 40 years of working, she did not take leave unnecessarily or even an mc! Actually I think it's also because she's so healthy so hardly ever falls ill. 
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
