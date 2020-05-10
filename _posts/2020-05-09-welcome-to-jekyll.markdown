@@ -10,9 +10,6 @@ I'm thankful for all the sacrifices my mother has made over the 30 years of brin
 Of all her 40 years of working, she did not take leave unnecessarily or even an mc! Actually I think it's also because she's so healthy so hardly ever falls ill. 
 
 ---
-layout: post
-title: " My Second Post"
-date: 2020-05-10 
 
 Here's my second post. Can you see this?
 
