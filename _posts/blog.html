@@ -1,0 +1,14 @@
+blog.html
+---
+layout: default
+title: Post 2
+---
+<h1>Latest Posts</h1>
+
+<u1>
+	{% for post in site.posts %}
+		<LI>
+			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		</LI>
+	{% endfor %}
+</u1>
