@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+I'm a sewing enthusiast. I also treasure all the things that this beautiful and bountiful earth brings. This blog is all about sustainable living through sewing, one piece at a time. 
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:

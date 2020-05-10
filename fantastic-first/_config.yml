@@ -32,6 +32,7 @@ github_username:  jekyll
 
 # Build settings
 theme: jekyll-swiss
+theme_colour: yellow
 plugins:
   - jekyll-feed
 
