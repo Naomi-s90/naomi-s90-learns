@@ -12,6 +12,12 @@ Of all her 40 years of working, she did not take leave unnecessarily or even an 
 ---
 
 Here's my second post. Can you see this?
+Why can't I load this page on Github... 
+
+---
+
+This is my third post. How do I add pictures?
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
